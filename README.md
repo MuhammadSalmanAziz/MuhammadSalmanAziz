@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsalmanaziz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsalmanaziz" /> </p>
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **MLOps, Gen AI**
 
 - 💬 Ask me about **Machine learning, Deep learning, Computer Vision**
 
 - 📫 How to reach me **m.salmanaziz12@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/17naDzgV-6vxJeJokIFAGO6JWNjcIfSsQ/view](https://drive.google.com/file/d/17naDzgV-6vxJeJokIFAGO6JWNjcIfSsQ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
