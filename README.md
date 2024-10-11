@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **m.salmanaziz12@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/17naDzgV-6vxJeJokIFAGO6JWNjcIfSsQ/view](https://drive.google.com/file/d/17naDzgV-6vxJeJokIFAGO6JWNjcIfSsQ/view)
+- ⚡ Fun fact **I think I am Tech Innovator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
