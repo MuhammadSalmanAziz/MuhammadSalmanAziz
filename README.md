@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsalmanaziz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsalmanaziz" /> </p>
 
-- 🌱 I’m currently learning **MLOps, Gen AI**
+- 🌱 I’m currently learning **Agentic AI ,MLOps, Gen AI**
 
 - 💬 Ask me about **Machine learning, Deep learning, Computer Vision**
 
